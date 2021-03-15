@@ -27,9 +27,11 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
+
 master.menu.anonymous.favourite-link-B = Enlace Barba
 master.menu.anonymous.favourite-link-M = Enlace Moguer
 master.menu.anonymous.favourite-link-H = Enlace Hernández
+master.menu.anonymous.favourite-link-S = Enlace Suárez
 
 # master.menu.administrator ###################################################
 
