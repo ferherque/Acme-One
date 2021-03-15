@@ -28,7 +28,9 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Favourite link
-master.menu.anonymous.favourite-link = Moguer's link
+master.menu.anonymous.favourite-link-M = Moguer's link
+master.menu.anonymous.favourite-link-H = Hernández's Link
+
 
 # master.menu.administrator ###################################################
 
