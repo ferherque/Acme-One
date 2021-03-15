@@ -19,6 +19,7 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-B" action="https://www.informatica.us.es/"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-M" action="https://www.amazon.es/ref=nav_logo"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link-H" action="https://www.us.es/"/>
 		</acme:menu-option>
